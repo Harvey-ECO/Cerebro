@@ -6,8 +6,21 @@ Dr. Fernando Rocha, advogado no escritório Abreu e Rocha.
 ## Pessoas
 | Quem | Papel |
 |------|-------|
-| _(preencher conforme uso)_ | |
+| **Dra. Leila** | Sócia do escritório; esposa do Dr. Fernando |
+| **Celi** | Assistente (equipe do escritório) |
+| **Adriana** | Contato ligado à Nova Vida (NV) |
+| **Felipe Caldas** | Sócio da Nova Vida (cliente) |
+| **Henrique Abreu** | Sócio da Nova Vida (cliente) |
 → Lista completa: memory/glossary.md · perfis: memory/people/
+
+## Clientes
+| Quem | O quê |
+|------|-------|
+| **NV (Nova Vida)** | Cliente |
+| **Msdata** | Cliente |
+| **Julianne** | Cliente |
+| **Willy** | Cliente |
+→ Perfis: memory/clientes/
 
 ## Termos
 | Termo | Significado |

@@ -13,9 +13,9 @@ Termos, siglas e linguagem interna do escritório Abreu e Rocha.
 | _(preencher conforme uso)_ | |
 
 ## Apelidos → Nomes completos
-| Apelido | Pessoa |
+| Apelido | Pessoa/Cliente |
 |---------|--------|
-| _(preencher conforme uso)_ | |
+| NV | Nova Vida (cliente) |
 
 ## Codinomes de casos/projetos
 | Codinome | Caso/Projeto |
