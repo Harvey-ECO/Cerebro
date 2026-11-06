@@ -10,7 +10,12 @@
 ## Áreas de atuação
 | Área | O que cobre |
 |------|-------------|
-| _(preencher conforme uso)_ | |
+| Previdenciário | — |
+| Cível | — |
+| Trabalhista | — |
+| Compliance/DPO | Atuação como compliance officer e DPO (ex.: Nova Vida, Msdata) |
+| Direito Digital | — |
+| Direito Internacional | Área da Dra. Leila, em conjunto com o previdenciário |
 
 ## Processos internos
 | Processo | O que significa |
