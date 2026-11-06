@@ -1,3 +1,0 @@
-# Willy
-
-**Tipo:** Cliente

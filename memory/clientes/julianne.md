@@ -1,3 +1,0 @@
-# Julianne
-
-**Tipo:** Cliente

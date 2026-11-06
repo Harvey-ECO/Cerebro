@@ -11,15 +11,15 @@ Dr. Fernando Rocha, advogado no escritório Abreu e Rocha.
 | **Adriana** | Contato ligado à Nova Vida (NV) |
 | **Felipe Caldas** | Sócio da Nova Vida (cliente) |
 | **Henrique Abreu** | Sócio da Nova Vida (cliente) |
+| **Julianne** | Sócia da Msdata (cliente) |
+| **Willy** | Sócio da Msdata (cliente) |
 → Lista completa: memory/glossary.md · perfis: memory/people/
 
 ## Clientes
-| Quem | O quê |
-|------|-------|
-| **NV (Nova Vida)** | Cliente |
-| **Msdata** | Cliente |
-| **Julianne** | Cliente |
-| **Willy** | Cliente |
+| Quem | Serviços prestados |
+|------|---------------------|
+| **NV (Nova Vida)** | Jurídico interno, compliance officer, DPO |
+| **Msdata** | Jurídico, DPO |
 → Perfis: memory/clientes/
 
 ## Termos
