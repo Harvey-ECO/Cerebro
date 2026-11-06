@@ -5,7 +5,8 @@ Termos, siglas e linguagem interna do escritório Abreu e Rocha.
 ## Siglas
 | Termo | Significado | Contexto |
 |-------|--------------|----------|
-| _(preencher conforme uso)_ | | |
+| PJe | Processo Judicial Eletrônico | Sistema judicial |
+| Astrea | Sistema de controle de prazos processuais | Ferramenta interna |
 
 ## Termos internos
 | Termo | Significado |

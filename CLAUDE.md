@@ -25,7 +25,8 @@ Dr. Fernando Rocha, advogado no escritório Abreu e Rocha.
 ## Termos
 | Termo | Significado |
 |-------|--------------|
-| _(preencher conforme uso)_ | |
+| PJe | Processo Judicial Eletrônico |
+| Astrea | Sistema de controle de prazos processuais |
 → Glossário completo: memory/glossary.md
 
 ## Casos/projetos ativos
