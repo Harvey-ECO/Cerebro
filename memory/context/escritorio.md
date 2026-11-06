@@ -6,7 +6,6 @@
 | Astrea | Controle de prazos processuais | |
 | PJe | Processo judicial eletrônico | |
 | Google Drive | Documentos de clientes e casos | |
-| WhatsApp (LetsBot) | Comunicação com clientes | |
 
 ## Áreas de atuação
 | Área | O que cobre |
