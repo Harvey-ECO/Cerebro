@@ -11,7 +11,8 @@ Termos, siglas e linguagem interna do escritório Abreu e Rocha.
 ## Termos internos
 | Termo | Significado |
 |-------|--------------|
-| _(preencher conforme uso)_ | |
+| Drive | Pasta de clientes (Google Drive) |
+| WhatsApp | Meio de comunicação com clientes |
 
 ## Apelidos → Nomes completos
 | Apelido | Pessoa/Cliente |

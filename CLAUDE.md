@@ -27,6 +27,8 @@ Dr. Fernando Rocha, advogado no escritório Abreu e Rocha.
 |-------|--------------|
 | PJe | Processo Judicial Eletrônico |
 | Astrea | Sistema de controle de prazos processuais |
+| Drive | Pasta de clientes (Google Drive) |
+| WhatsApp | Meio de comunicação com clientes |
 → Glossário completo: memory/glossary.md
 
 ## Casos/projetos ativos
